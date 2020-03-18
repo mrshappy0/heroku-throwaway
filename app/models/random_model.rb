@@ -1,0 +1,2 @@
+class RandomModel < ApplicationRecord
+end
